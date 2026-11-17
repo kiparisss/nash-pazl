@@ -1,12 +1,12 @@
 {
   "name": "Наш пазл",
   "short_name": "Наш пазл",
-  "description": "Собираем наши фото вместе 🧩💞",
+  "description": "Собираем наши фото вместе 🧩💜",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#fff0f6",
-  "theme_color": "#ffd6e7",
+  "background_color": "#12071f",
+  "theme_color": "#1a0b2e",
   "icons": [
     {
       "src": "icon-192.png",
